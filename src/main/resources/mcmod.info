@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rw",
+  "name": "Richard's and Waincai's Mod",
+  "description": "Just a standard mod. This mod is avavaible in English, Swedish and Chinese (Simplified)",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Richard311102, _Liang"],
+  "credits": "Richard311102 and _Liang",
+  "logoFile": "rw_logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
